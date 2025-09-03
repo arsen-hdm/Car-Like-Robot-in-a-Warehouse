@@ -41,3 +41,9 @@ Then there's the comparison of the results between RRT/RRG and A*:
 <img src="images/RRT_RRG.png" alt="Figura 1" width="400"/>
 
 <img src="images/Astar.png" alt="Figura 1" width="400"/>
+
+And as last some results in terms of comparison between the planned trajectory and the real one, firstly regarding RRT+A* and then with Reed-Shepps Curves:
+
+<img src="images/RRT_Astar_results.png" alt="Figura 1" width="400"/>
+
+<img src="images/RS_Curves_result.png" alt="Figura 1" width="400"/>
