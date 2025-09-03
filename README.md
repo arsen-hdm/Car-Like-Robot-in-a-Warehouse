@@ -18,8 +18,8 @@ This project aims to control a car-like robot model in a warehouse environment c
 
 The code is basically plug and play, in fact you have just to execute the ***main.m*** file and choose what kind of map do you want, feedback and so on...
 
-Some tips are that if you using one plannig method or another the destination point is different, if you want to change it then regarding RTT+A* is simple, just change the variable (consider if the goal position is inside of an obstacle or not). Instead regarding RS Curves you have to define more points along the path (like it's already done) just to be sure you're avoiding obstacles.
+Some tips are that if you using one plannig method or another the destination point is different, if you want to change it then regarding RRT+A* is simple, just change the variable (consider if the goal position is inside of an obstacle or not). Instead regarding RS Curves you have to define more points along the path (like it's already done) just to be sure you're avoiding obstacles.
 
-Regarding the gains of the controller, k1 and k2, I suggest you to use 5 or 6 as values for RS Curves and little bigger values if you're using RTT+A*
+Regarding the gains of the controller, k1 and k2, I suggest you to use 5 or 6 as values for RS Curves and little bigger values if you're using RRT+A*
 
 There's also present a ***pdf*** report in which everything is explained and also the results are shown in it ;)
