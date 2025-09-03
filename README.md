@@ -25,6 +25,7 @@ Regarding the gains of the controller, k1 and k2, I suggest you to use 5 or 6 as
 There's also present a ***pdf*** report in which everything is explained and also the results are shown in it ;)
 
 Here's the two types of Maps:
-![Original Map](images/originalMap.png)
 
-![Inflated Map](images/InflatedMap.png)
+<img src="images/originalMap.png" alt="Figura 1" width="400"/>
+
+<img src="images/InflatedMap.png" alt="Figura 1" width="400"/>
