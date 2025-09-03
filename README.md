@@ -35,3 +35,9 @@ Here insted the commercial robots that have been taken as inspo for the paramete
 <img src="images/OTTO_100.png" alt="Figura 1" width="400"/>
 
 <img src="images/MiR250.png" alt="Figura 1" width="400"/>
+
+Then there's the comparison of the results between RRT/RRG and A*:
+
+<img src="images/RRT_RRG.png" alt="Figura 1" width="400"/>
+
+<img src="images/Astar.png" alt="Figura 1" width="400"/>
