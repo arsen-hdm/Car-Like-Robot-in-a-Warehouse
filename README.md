@@ -29,3 +29,9 @@ Here's the two types of Maps:
 <img src="images/originalMap.png" alt="Figura 1" width="400"/>
 
 <img src="images/InflatedMap.png" alt="Figura 1" width="400"/>
+
+Here insted the commercial robots that have been taken as inspo for the parameters:
+
+<img src="images/OTTO_100.png" alt="Figura 1" width="400"/>
+
+<img src="images/MiR250.png" alt="Figura 1" width="400"/>
