@@ -23,3 +23,8 @@ Some tips are that if you using one plannig method or another the destination po
 Regarding the gains of the controller, k1 and k2, I suggest you to use 5 or 6 as values for RS Curves and little bigger values if you're using RRT+A*
 
 There's also present a ***pdf*** report in which everything is explained and also the results are shown in it ;)
+
+Here's the two types of Maps:
+![Original Map](images/originalMap.png)
+
+![Inflated Map](images/InflatedMap.png)
